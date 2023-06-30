@@ -1,0 +1,9 @@
+Este código implementa o servidor assíncrono em C# com as seguintes funcionalidades:
+
+O servidor recebe novas conexões de clientes e adiciona as requisições à fila correspondente (alta memória ou baixa memória) para execução posterior.
+O servidor processa as requisições pendentes de acordo com a disponibilidade da memória e a ordem de chegada.
+Cada requisição tem uma duração simulada de 30 segundos antes de enviar uma resposta ao cliente.
+Se novas requisições chegam enquanto o servidor está ocupado processando uma tarefa, elas são adicionadas à fila correspondente e executadas posteriormente.
+O servidor verifica o uso da memória antes de processar uma nova requisição, garantindo que a memória não ultrapasse 75%.
+O código também inclui uma simulação de 20 requisições que chegam a cada 15 segundos para testar o funcionamento do servidor.
+A saída do programa fornecerá informações sobre as conexões de clientes, adição de requisições à fila e processamento das tarefas.

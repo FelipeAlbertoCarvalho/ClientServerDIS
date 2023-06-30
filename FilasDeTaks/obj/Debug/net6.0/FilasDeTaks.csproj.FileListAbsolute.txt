@@ -1,0 +1,7 @@
+C:\Users\Felipe\source\repos\FilasDeTaks\FilasDeTaks\obj\Debug\net6.0\FilasDeTaks.csproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\FilasDeTaks\FilasDeTaks\obj\Debug\net6.0\FilasDeTaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\FilasDeTaks\FilasDeTaks\obj\Debug\net6.0\FilasDeTaks.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\FilasDeTaks\FilasDeTaks\obj\Debug\net6.0\FilasDeTaks.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\FilasDeTaks\FilasDeTaks\obj\Debug\net6.0\FilasDeTaks.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\FilasDeTaks\FilasDeTaks\obj\Debug\net6.0\Interop.VBIDE.dll
+C:\Users\Felipe\source\repos\FilasDeTaks\FilasDeTaks\obj\Debug\net6.0\FilasDeTaks.csproj.ResolveComReference.cache
